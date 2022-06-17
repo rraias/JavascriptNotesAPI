@@ -33,7 +33,7 @@ $ npx nodemon
 
 ## Aviso / Disclaimer:
 
-🇧🇷 -> Esse projeto é apenas o backend do projeto. Para acessar o frontend, <a href=https://github.com/rraias/JavascriptNotes>Clique aqui</a>
+🇧🇷 -> Esse projeto é apenas o backend. Para acessar o frontend, <a href=https://github.com/rraias/JavascriptNotes>Clique aqui</a>
 
 🇺🇸 -> This project is only the backend. To get the frontend, <a href=https://github.com/rraias/JavascriptNotes>Click Here</a>
 
